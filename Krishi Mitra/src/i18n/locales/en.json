@@ -1,0 +1,48 @@
+{
+  "nav": {
+    "home": "Home",
+    "marketplace": "Marketplace",
+    "news": "News",
+    "msp": "MSP Rates",
+    "cropSuggestion": "Crop Suggestion",
+    "login": "Login"
+  },
+  "hero": {
+    "title": "Welcome to",
+    "appName": "Krishi Mitra",
+    "subtitle": "Your trusted partner in modern agriculture. Connect, trade, and grow with India's premier agricultural platform.",
+    "exploreMarketplace": "Explore Marketplace",
+    "getCropSuggestions": "Get Crop Suggestions"
+  },
+  "features": {
+    "title": "Our Services",
+    "subtitle": "Everything you need to succeed in modern agriculture",
+    "marketplace": {
+      "title": "Marketplace",
+      "description": "Connect with farmers and buyers to trade agricultural products directly"
+    },
+    "news": {
+      "title": "Agricultural News",
+      "description": "Stay updated with the latest news and developments in agriculture"
+    },
+    "msp": {
+      "title": "MSP Rates",
+      "description": "Check current Minimum Support Prices for various crops"
+    },
+    "cropSuggestion": {
+      "title": "Crop Suggestions",
+      "description": "Get AI-powered crop recommendations based on soil and weather data"
+    }
+  },
+  "cta": {
+    "title": "Ready to grow your agricultural business?",
+    "subtitle": "Join thousands of farmers and buyers who trust Krishi Mitra for their agricultural needs.",
+    "button": "Get Started Today"
+  },
+  "chatbot": {
+    "title": "Krishi Mitra Assistant",
+    "placeholder": "Type your message...",
+    "send": "Send",
+    "welcome": "Hello! How can I help you today?"
+  }
+}
