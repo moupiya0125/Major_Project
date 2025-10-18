@@ -1,0 +1,72 @@
+{
+  "nav": {
+    "home": "Home",
+    "marketplace": "Marketplace",
+    "news": "News",
+    "msp": "MSP Rates",
+    "cropSuggestion": "Crop Suggestion",
+    "login": "Login"
+  },
+  "hero": {
+    "title": "Welcome to",
+    "appName": "Krishi Mitra",
+    "subtitle": "Your trusted partner in modern agriculture. Connect, trade, and grow with India's premier agricultural platform.",
+    "exploreMarketplace": "Explore Marketplace",
+    "getCropSuggestions": "Get Crop Suggestions"
+  },
+  "features": {
+    "title": "Our Services",
+    "subtitle": "Everything you need to succeed in modern agriculture",
+    "marketplace": {
+      "title": "Marketplace",
+      "description": "Connect with farmers and buyers to trade agricultural products directly"
+    },
+    "news": {
+      "title": "Agricultural News",
+      "description": "Stay updated with the latest news and developments in agriculture"
+    },
+    "msp": {
+      "title": "MSP Rates",
+      "description": "Check current Minimum Support Prices for various crops"
+    },
+    "cropSuggestion": {
+      "title": "Crop Suggestions",
+      "description": "Get AI-powered crop recommendations based on soil and weather data"
+    }
+  },
+  "cta": {
+    "title": "Ready to grow your agricultural business?",
+    "subtitle": "Join thousands of farmers and buyers who trust Krishi Mitra for their agricultural needs.",
+    "button": "Get Started Today"
+  },
+  "auth": {
+    "loginTitle": "Login",
+    "loginDesc": "Enter your email below to login to your account",
+    "loginBtn": "Login",
+    "loginSuccessTitle": "Logged In",
+    "loginSuccessDesc": "Welcome back to Krishi Mitra!",
+    "loginErrorDesc": "Failed to log in. Please check your credentials.",
+    "noAccount": "Don't have an account?",
+    "signupLink": "Sign Up",
+    "signupTitle": "Sign Up",
+    "signupDesc": "Enter your information to create an account",
+    "createAccountBtn": "Create an account",
+    "signupSuccessTitle": "Account Created",
+    "signupSuccessDesc": "Welcome to Krishi Mitra! You are now logged in.",
+    "signupErrorDesc": "Failed to create an account. Please try again.",
+    "haveAccount": "Already have an account?",
+    "loginLink": "Log in",
+    "usernameLabel": "Username",
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "logoutBtn": "Logout",
+    "errorTitle": "An Error Occurred"
+  },
+  "chatbot": {
+    "title": "Krishi Mitra Assistant",
+    "placeholder": "Type your message...",
+    "send": "Send",
+    "welcome": "Hello! How can I help you today?",
+    "error": "Sorry, I'm having trouble connecting. Please try again later."
+  }
+}
